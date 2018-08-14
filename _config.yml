@@ -1,7 +1,7 @@
 title: 2018 Alberta Mixed Reality Workshop
 description: An Albertan workshop for academics and industry partners exploring Mixed Reality.
 sitename: 2018 Alberta Mixed Reality Workshop
-baseurl: '/alberta-mr-workshop-2018'
+baseurl: '/2018abmw'
 sass:
   sass_dir: /assets/_sass
   style: :compressed
