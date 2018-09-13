@@ -15,9 +15,13 @@ To register, please contact [Dr Christine Sharp](mailto:cesharp@ucalgary.ca).
 * Shaun Crawford, [Mammoth VR](http://www.mammothvr.com/)
 * Cam Rooney, [Mammoth VR](http://www.mammothvr.com/)
 * Adam Bhavnani, [VEERUM](https://veerum.com/)
+* Frank Maurer, [VizworX](http://vizworx.com/)
 * [Cameron Kiddle](http://pages.cpsc.ucalgary.ca/~kiddlec/), [Calgary Scientific](http://www.calgaryscientific.com)
+* Dan Pigat, [Calgary Scientific](http://www.calgaryscientific.com)
 * Kevin Barret, [Serious Labs](http://seriouslabs.com)
 * Kyle Reczek, [Banyango](http://www.banyango.com)
+* Eugnio Coccimiglio, [Inception VR](http://inceptionvrinc.com)
+* Teresa Leung, [Nova Chemicals](http://novachem.com)
 * [Barry Pendergast](http://www.barrypendergast.jspeer.com/Pendergast_Design_Ltd/About_Me.html), Pendergast Design Ltd
 * [Sonny Chan](http://vt2.cpsc.ucalgary.ca/), University of Calgary
 * [Carrie Demmans Epp](http://www.cdemmansepp.com/), University of Alberta
