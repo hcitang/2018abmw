@@ -33,10 +33,10 @@ To register, please contact [Dr Christine Sharp](mailto:cesharp@ucalgary.ca).
 * [Author Kuo](https://www.ucalgary.ca/research/scholars/kuo-arthur), University of Calgary
 * [Laura Perissinotti](https://www.linkedin.com/in/lauraperissinotti/), University of Calgary
 * Alex Campelo, University of Calgary
-* Stephen Cartwright, University of Calgary
+* [Stephen Cartwright](http://ucalgaryreservoirsimulation.ca/our-people/staff/stephen-cartwright/), University of Calgary
 * Omar Addam, University of Calgary
-* Gwen McGhan, University of Calgary
-* Farook Al-Shamali, Athabasca University
-* Usman Alim, University of Calgary
+* [Gwen McGhan](http://nursing.ucalgary.ca/nursing_info/profiles/gwen-mcghan), University of Calgary
+* [Farook Al-Shamali](http://science.athabascau.ca/staff-pages/farooka/), Athabasca University
+* [Usman Alim](http://pages.cpsc.ucalgary.ca/~ualim/), University of Calgary
 * Oba Harding, MITACS
 * Angelo Nwigwe, MITACS
