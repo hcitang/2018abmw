@@ -32,5 +32,11 @@ To register, please contact [Dr Christine Sharp](mailto:cesharp@ucalgary.ca).
 * [Patrick Finn](http://drpatrickfinn.com/), University of Calgary
 * [Author Kuo](https://www.ucalgary.ca/research/scholars/kuo-arthur), University of Calgary
 * [Laura Perissinotti](https://www.linkedin.com/in/lauraperissinotti/), University of Calgary
+* Alex Campelo, University of Calgary
+* Stephen Cartwright, University of Calgary
+* Omar Addam, University of Calgary
+* Gwen McGhan, University of Calgary
+* Farook Al-Shamali, Athabasca University
+* Usman Alim, University of Calgary
 * Oba Harding, MITACS
 * Angelo Nwigwe, MITACS
